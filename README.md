@@ -28,19 +28,10 @@
 
 ---
 
-### 🗑️ **WasteWise**  
-*Arduino IDE, MySQL Workbench, HTML, CSS, JavaScript, C#*  
-**Nov. 2024**  
-- Engineered a smart IoT container with sensors for weight, temperature, fill level, and lid activity.  
-- Built a live dashboard with MySQL to display sensor data and prevent contamination and health risks.  
-
----
-
 ### 🔢 **BetterCLC**  
 *C++, SFML, WINAPI*  
 **May. 2025**  
-- Designed an advanced Windows calculator that lets users create and store custom programmable functions.  
-- 📥 **150 downloads on itch.io**, widely used among my Data Science and Mechatronics peers.  
+- Designed an advanced Windows calculator that lets users create and store custom programmable functions.
 
 ---
 
