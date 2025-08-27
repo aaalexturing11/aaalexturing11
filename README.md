@@ -6,8 +6,6 @@
 ### 🚀 About Me
 - 💻 Developer in **C++, Web, and cross-platform applications**.  
 - 🎮 I enjoy building impactful projects: games, simulators, and educational platforms.  
-- 📈 Goal: Become a **Microsoft intern (2027)**.  
-- 🌱 Currently learning **React, Node.js, and advanced databases**.  
 
 ---
 
@@ -105,5 +103,8 @@
 
 ---
 
-## 🐍 Snake Contributions Game
-![snake gif](https://github.com/aaalexturing11/aaalexturing11/blob/output/github-contribution-grid-snake.svg)
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
