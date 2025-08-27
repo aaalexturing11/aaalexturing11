@@ -12,10 +12,10 @@
 ## 💼 Featured Project Experience
 
 ### 🎓 **LEXA Studios – Learn Hub**  
-*Microsoft SQL Server, HTML, CSS, JavaScript, C#, Gemini AI*  
+*Microsoft SQL Server, HTML, CSS, JavaScript, C#, GeminiAI API*  
 **Mar. 2025 – Present**  
 - Built an educational platform using “serious games” to gamify academic and well-being tasks, with a SQL Server back-end, interactive WebGL modules, and Gemini AI–powered adaptive content.  
-- Publicly tested by students in **Mexico and Brazil**.  
+- Tested by students in **Mexico and Brazil**.  
 - 🏆 **1st place** at *ExpoIngenierías (Software Prototype)* and **2nd place** in *Project with Greatest Social Impact*.  
 
 ---
