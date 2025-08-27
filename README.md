@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 - 💻 Developer in **C++, Web, and cross-platform applications**.  
-- 🎮 I enjoy building impactful projects: games, simulators, and educational platforms.  
+- 🎮 I enjoy building projects like: games, simulators, and platforms.
 
 ---
 
