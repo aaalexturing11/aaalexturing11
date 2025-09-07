@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Alexis Aguirre</h1>
+<h1 align="center">👋 Hi, I'm Alex</h1>
 <h3 align="center">Engineering student · Passionate about software development</h3>
 
 ---
