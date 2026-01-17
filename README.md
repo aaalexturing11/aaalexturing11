@@ -49,6 +49,7 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
 
 ---
 
@@ -81,18 +82,7 @@
 ![UML](https://img.shields.io/badge/UML-FA7343?logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20APIs-02569B?logo=fastapi&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?logo=socket.io&logoColor=white)
-
-
----
-
-## 📊 GitHub Stats
-![Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaalexturing11&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaalexturing11&layout=compact&theme=tokyonight)  
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aaalexturing11&theme=tokyonight)](https://git.io/streak-stats)
-
----
+![i18n](https://img.shields.io/badge/i18n-000000?logo=translate&logoColor=white)
 
 <!-- Snake Game Repo View -->
 ## 🐍 Snake eating my contributions
