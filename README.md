@@ -1,17 +1,17 @@
-<h1 align="center">👋 Hi, I'm Alex</h1>
-<h3 align="center">Engineering student · Passionate about software development</h3>
+<h1 align="center">Hi, I'm Alex</h1>
+<h3 align="center">CS Student @ Tecnológico de Monterrey</h3>
 
 ---
 
-### 🚀 About Me
-- 💻 Developer in **C++, Web, and cross-platform applications**.  
-- 🎮 I enjoy building projects like: games, simulators, and platforms.
+### About Me
+- I love C++.
+- I enjoy building projects like: games, simulators, and platforms.
 
 ---
 
-## 💼 Featured Project Experience
+## Featured Project Experience
 
-### 🎓 **LEXA Studios – Learn Hub**  
+### **LEXA Studios – Learn Hub**  
 *Microsoft SQL Server, HTML, CSS, JavaScript, C#, GeminiAI API*  
 **Mar. 2025 – Present**  
 - Built an educational platform using “serious games” to gamify academic and well-being tasks, with a SQL Server back-end, interactive WebGL modules, and Gemini AI–powered adaptive content.  
@@ -20,24 +20,17 @@
 
 ---
 
-### ♟️ **Chessmotes**  
+### **Chessmotes**  
 *React, CSS, WebSocket, Node.js, MongoDB Atlas*  
 **Jun. 2025**  
 - Developed a **Chess.com browser extension** with a React-based UI, allowing users to send real-time emotes during games (similar to *Clash Royale*).  
-- Backend deployed on Render.com to link active accounts with the extension.  
+- Backend deployed on Render.com to link active accounts with the extension. 
 
 ---
 
-### 🔢 **BetterCLC**  
-*C++, SFML, WINAPI*  
-**May. 2025**  
-- Designed an advanced Windows calculator that lets users create and store custom programmable functions.
+## Tech & Tools
 
----
-
-## 🛠️ Tech & Tools
-
-### 🌐 Languages
+###  Languages that I frequently use:
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
@@ -53,7 +46,7 @@
 
 ---
 
-### 🧰 Developer Tools
+###  Developer Tools that I use:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-000000?logo=clion&logoColor=white)
@@ -62,7 +55,7 @@
 
 ---
 
-### ⚙️ Technologies & Frameworks
+###  Technologies & Frameworks
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
@@ -76,16 +69,10 @@
 
 ---
 
-### 📌 Other
+###  Other "relevant" stuff:
 ![Agile](https://img.shields.io/badge/Agile-0052CC?logo=jira&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=scrumalliance&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-FA7343?logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20APIs-02569B?logo=fastapi&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?logo=socket.io&logoColor=white)
 ![i18n](https://img.shields.io/badge/i18n-000000?logo=translate&logoColor=white)
-
-<!-- Snake Game Repo View -->
-## 🐍 Snake eating my contributions
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
